@@ -1,0 +1,30 @@
+body {
+background-color: #383838;
+}
+
+h1 {
+font-size: 25pt;
+font-family: Comic Sans MS;
+background-color: #989898;
+line-height: 27pt;
+text-align: center;
+margin-top: 10pt;
+margin-bottom: 10pt;
+margin-left: 96pt;
+margin-right: 96pt;
+padding: 5pt;
+}
+
+a {
+color: #FFFFFF;
+font-size: 12pt;
+font-family: Arial;
+}
+
+a:visited {
+color: #C900FF;
+}
+
+a:hover{
+color: #00FF00;
+}
